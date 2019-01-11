@@ -47,6 +47,13 @@
 			<artifactId>spring-context-support</artifactId>
 			<version>1.0.2</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper -->
+		 <dependency>
+            <groupId>com.101tec</groupId>
+            <artifactId>zkclient</artifactId>
+            <version>0.10</version>
+        </dependency>
+
 	</dependencies>
 
 	<build>
